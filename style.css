@@ -1,0 +1,52 @@
+body {
+    margin: 0;
+    font-family: Arial;
+    background: linear-gradient(135deg, #0f0f0f, #1a1a1a);
+    color: gold;
+    text-align: center;
+}
+
+.container {
+    margin-top: 100px;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+.subtitle {
+    color: #ccc;
+    margin-bottom: 30px;
+}
+
+.card {
+    background: #111;
+    padding: 20px;
+    border-radius: 10px;
+    display: inline-block;
+}
+
+.contract {
+    color: #00ffcc;
+    font-size: 14px;
+    word-break: break-all;
+}
+
+.buttons a {
+    display: inline-block;
+    margin: 10px;
+    padding: 10px 20px;
+    background: gold;
+    color: black;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.buttons a:hover {
+    background: #ffd700;
+}
+
+.info {
+    margin-top: 30px;
+    color: #aaa;
+}
